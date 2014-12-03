@@ -1,17 +1,17 @@
 # Site navigation links
 - title: 详解刷单安全
   url: /about/
-  excerpt: "欲练此功，必先做好自宫准备."
+  excerpt: "详细说明刷单过程中的安全问题"
   image: 400x250.gif
 
 - title: 如何安装
   url: /getting-started/
-  excerpt: "只要看完了这篇文章，你就能使用DW刷单和放单了."
+  excerpt: "详细说明如何安装DW电商秘书软件"
   image: 400x250.gif
 
 - title: 如何注册
   url: /getting-started/
-  excerpt: "只要看完了这篇文章，你就能使用DW刷单和放单了."
+  excerpt: "详细说明如何注册账号."
   image: 400x250.gif
 
 - title: 详细文档
