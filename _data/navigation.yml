@@ -1,21 +1,25 @@
 # Site navigation links
-
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
-
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
-
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
-
-- title: About
+- title: 详解刷单安全
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "欲练此功，必先做好自宫准备."
+  image: 400x250.gif
+
+- title: 如何安装
+  url: /getting-started/
+  excerpt: "只要看完了这篇文章，你就能使用DW刷单和放单了."
+  image: 400x250.gif
+
+- title: 如何注册
+  url: /getting-started/
+  excerpt: "只要看完了这篇文章，你就能使用DW刷单和放单了."
+  image: 400x250.gif
+
+- title: 详细文档
+  url: /articles/
+  excerpt: "所有的关于DW电商秘书的详细文档都在这里"
+  image: 400x250.gif
+
+- title: 加Q群获取专人帮助
+  url: /about/
+  excerpt: "加群了解更多"
   image: 400x250.gif

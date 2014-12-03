@@ -1,13 +1,10 @@
 # Footer navigation links
 
-- title: Home
+- title: DW电商秘书
   url: /
 
-- title: Getting Started
+- title: 使用文档
   url: /getting-started/
 
-- title: About
+- title: 联系我们
   url: /about/
-
-- title: Terms
-  url: /terms/
